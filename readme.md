@@ -1,4 +1,3 @@
-```markdown
 # Laravel 12 Inertia with React Test Project
 
 This is a test project designed to help you learn how to integrate **Laravel**, **Inertia.js**, and **React** into a single application. It serves as a starting point for building modern, dynamic web applications using these technologies.
