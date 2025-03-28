@@ -145,8 +145,9 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 If you have any questions or need further assistance, feel free to reach out:
 
 - GitHub: [@SeneshCode](https://github.com/SeneshCode)
-- Email: [Your Email Address]
+- Email: [seneshpawan84@gmail.com](mailto:seneshpawan84@gmail.com)
 
+```
 Happy coding! 🚀
 ``` 
 
