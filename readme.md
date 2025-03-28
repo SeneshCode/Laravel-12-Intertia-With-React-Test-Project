@@ -147,7 +147,6 @@ If you have any questions or need further assistance, feel free to reach out:
 - GitHub: [@SeneshCode](https://github.com/SeneshCode)
 - Email: [seneshpawan84@gmail.com](mailto:seneshpawan84@gmail.com)
 
-```
 Happy coding! 🚀
-``` 
+
 
